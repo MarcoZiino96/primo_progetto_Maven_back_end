@@ -1,7 +1,7 @@
-package it.epicode.week3.entities.dao;
+package it.epicode.week3.esercitazioneLezione.dao;
 
 
-import it.epicode.week3.entities.Persona;
+import it.epicode.week3.esercitazioneLezione.Persona;
 
 import javax.persistence.*;
 

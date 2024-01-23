@@ -15,9 +15,12 @@ public class Evento {
     private LocalDate dataEvento;
     private String descrizione;
     @Column(name="tipo_evento")
+    @Enumerated(EnumType.STRING)
     private TipoEvento tipoEvento;
     @Column(name="numero_massimo_partecipanti")
     private int NumeroMassimoPartecipanti;
+
+    public Evento(){};
 
     public Evento(String titolo, LocalDate dataEvento, String descrizione, TipoEvento tipoEvento, int numeroMassimoPartecipanti) {
         this.titolo = titolo;

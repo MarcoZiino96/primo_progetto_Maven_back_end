@@ -1,4 +1,4 @@
-package it.epicode.week3.entities;
+package it.epicode.week3.esercitazioneLezione;
 
 
 import javax.persistence.*;

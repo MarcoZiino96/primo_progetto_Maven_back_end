@@ -1,6 +1,6 @@
-package it.epicode.week3.entities;
+package it.epicode.week3.esercitazioneLezione;
 
-import it.epicode.week3.entities.dao.PersonaDao;
+import it.epicode.week3.esercitazioneLezione.dao.PersonaDao;
 
 import java.time.LocalDate;
 
