@@ -1,7 +1,7 @@
 package it.epicode.week3.esercitazioneLezione;
 
 
-import javax.persistence.*;
+import jakarta.persistence.*;
 
 import java.time.LocalDate;
 

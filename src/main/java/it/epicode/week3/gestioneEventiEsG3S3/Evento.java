@@ -1,7 +1,7 @@
 package it.epicode.week3.gestioneEventiEsG3S3;
 
 
-import javax.persistence.*;
+import jakarta.persistence.*;
 import java.time.LocalDate;
 
 @Entity

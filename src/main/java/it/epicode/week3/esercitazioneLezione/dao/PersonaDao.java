@@ -3,7 +3,7 @@ package it.epicode.week3.esercitazioneLezione.dao;
 
 import it.epicode.week3.esercitazioneLezione.Persona;
 
-import javax.persistence.*;
+import jakarta.persistence.*;
 
 public class PersonaDao {
 
