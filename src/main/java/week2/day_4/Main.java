@@ -124,6 +124,7 @@ public class Main {
           return prodotti;
       }catch (IOException e){
           System.out.println(e.getMessage());
+          return null;
       }
     }
 }
